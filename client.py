@@ -27,6 +27,7 @@ def main():
     data = json.loads(data)
     print('Сообщение от сервера: ', data)
     s.close()
+    
 
 if __name__ ==  '__main__':
     main()
