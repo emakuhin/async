@@ -1,0 +1,7 @@
+2021-09-15 15:32:22,586 INFO     module:server Запуск модуля server с аргументами ip= port=7778
+2021-09-15 15:32:32,498 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59047
+2021-09-15 15:33:14,645 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59051
+2021-09-15 15:33:20,931 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59052
+2021-09-15 15:34:40,157 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59062
+2021-09-15 15:35:02,160 INFO     module:server Запуск модуля server с аргументами ip= port=7778
+2021-09-15 15:35:05,739 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59064
