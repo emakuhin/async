@@ -1,7 +1,20 @@
-2021-09-15 15:32:22,586 INFO     module:server Запуск модуля server с аргументами ip= port=7778
-2021-09-15 15:32:32,498 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59047
-2021-09-15 15:33:14,645 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59051
-2021-09-15 15:33:20,931 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59052
-2021-09-15 15:34:40,157 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59062
-2021-09-15 15:35:02,160 INFO     module:server Запуск модуля server с аргументами ip= port=7778
-2021-09-15 15:35:05,739 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59064
+2021-09-20 11:16:00,868 INFO     module:server Запуск модуля server с аргументами ip= port=7778
+2021-09-20 11:16:04,962 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=64927
+2021-09-20 11:17:26,358 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=54426
+2021-09-20 11:18:25,050 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=63947
+2021-09-20 11:21:12,394 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=55573
+2021-09-20 11:23:54,994 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=51676
+2021-09-20 11:30:02,253 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=57976
+2021-09-20 11:31:42,846 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=62031
+2021-09-20 11:31:50,326 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=64657
+2021-09-20 11:40:23,219 INFO     module:server_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-20 11:40:33,202 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59078
+2021-09-20 11:40:33,207 INFO     module:server_log_config Запуск функции server из функции main_func с аргументами (7778, '') {}
+2021-09-20 11:40:52,671 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=54177
+2021-09-20 11:40:52,674 INFO     module:server_log_config Запуск функции server из функции main_func с аргументами (7778, '') {}
+2021-09-20 11:43:54,985 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=59007
+2021-09-20 11:43:55,001 INFO     module:server_log_config Запуск функции server из функции main_func с аргументами (7778, '') {}
+2021-09-20 11:45:47,052 INFO     module:server_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-20 11:45:47,052 INFO     module:server_log_config Запуск функции server из функции main_func с аргументами (7778, '') {}
+2021-09-20 11:45:53,003 INFO     module:server Пришло сообщение от клиента Makuhin. IP=127.0.0.1 Port=65088
+2021-09-20 11:45:53,003 INFO     module:server_log_config Запуск функции server из функции main_func с аргументами (7778, '') {}

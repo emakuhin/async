@@ -30,3 +30,38 @@
 2021-09-15 15:35:05,739 INFO     module:client Сообщение доставлено до сервера
 2021-09-15 15:35:19,442 INFO     module:client Запуск модуля client с аргументами ip=localhost port=7778
 2021-09-15 15:35:19,457 CRITICAL module:client Не предвиденная ошибка [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-09-19 17:16:07,742 INFO     module:client Запуск модуля client с аргументами ip=localhost port=7778
+2021-09-19 17:16:08,756 CRITICAL module:client Не предвиденная ошибка [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2021-09-19 17:16:38,463 INFO     module:client Запуск модуля client с аргументами ip=localhost port=7778
+2021-09-19 17:16:39,472 CRITICAL module:client Не предвиденная ошибка [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2021-09-19 17:17:38,173 INFO     module:client Запуск модуля client с аргументами ip=localhost port=7778
+2021-09-19 17:17:38,183 INFO     module:client Сообщение доставлено до сервера
+2021-09-19 17:19:13,874 INFO     module:client Запуск модуля client с аргументами ip=localhost port=7778
+2021-09-19 17:19:13,885 INFO     module:client Сообщение доставлено до сервера
+2021-09-19 17:42:30,565 INFO     module:client Запуск модуля client с аргументами ip=localhost port=7778
+2021-09-19 17:42:30,589 CRITICAL module:client Не предвиденная ошибка [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-09-20 11:16:04,962 INFO     module:client_log_config Запуск функции pars_arg с аргументами () {}
+2021-09-20 11:17:26,347 INFO     module:client_log_config Запуск функции pars_arg с аргументами () {}
+2021-09-20 11:18:25,034 INFO     module:client_log_config Запуск функции pars_arg с аргументами () {}
+2021-09-20 11:18:25,034 INFO     module:client_log_config Запуск функции client с аргументами (7778, 'localhost') {}
+2021-09-20 11:21:12,378 INFO     module:client_log_config Запуск функции pars_arg с аргументами () {}
+2021-09-20 11:21:12,378 INFO     module:client_log_config Запуск функции client с аргументами (7778, 'localhost') {}
+2021-09-20 11:23:54,978 INFO     module:client_log_config Запуск функции pars_arg с аргументами () {}
+2021-09-20 11:23:54,994 INFO     module:client_log_config Запуск функции client с аргументами (7778, 'localhost') {}
+2021-09-20 11:30:02,253 INFO     module:client_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-20 11:30:02,253 INFO     module:client_log_config Запуск функции client из функции main_func с аргументами (7778, 'localhost') {}
+2021-09-20 11:31:42,846 INFO     module:client_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-20 11:31:42,861 INFO     module:client_log_config Запуск функции client из функции main_func с аргументами (7778, 'localhost') {}
+2021-09-20 11:31:50,310 INFO     module:client_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-20 11:31:50,326 INFO     module:client_log_config Запуск функции client из функции main_func с аргументами (7778, 'localhost') {}
+2021-09-20 11:31:50,326 INFO     module:client_log_config Запуск функции main_func с аргументами () {}
+2021-09-20 11:39:54,561 INFO     module:client_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-20 11:40:33,193 INFO     module:client_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-20 11:40:52,665 INFO     module:client_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-20 11:40:52,673 INFO     module:client_log_config Запуск функции client из функции main_func с аргументами (7778, 'localhost') {}
+2021-09-20 11:43:54,985 INFO     module:client_log_config Запуск функции pars_arg с аргументами () {}
+2021-09-20 11:43:54,985 INFO     module:client_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-20 11:43:54,985 INFO     module:client_log_config Запуск функции client из функции main_func с аргументами (7778, 'localhost') {}
+2021-09-20 11:45:20,054 INFO     module:client_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-20 11:45:52,987 INFO     module:client_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-20 11:45:53,003 INFO     module:client_log_config Запуск функции client из функции main_func с аргументами (7778, 'localhost') {}
