@@ -1,0 +1,2 @@
+2021-09-23 13:16:36,118 INFO     module:server_log_config Запуск функции pars_arg из функции main_func с аргументами () {}
+2021-09-23 13:16:36,125 INFO     module:server_log_config Запуск функции mainloop из функции main_func с аргументами ('', 7777) {}
